@@ -1,2 +1,7 @@
 # javascript-fundamentals
-main fundamentals of javascript programming
+Repositório de estudos de Javascript
+
+## Tecnologias utilizadas
+- [x] Node
+
+## Índices

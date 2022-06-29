@@ -1,2 +1,2 @@
 const world = "World";
-console.log("Hello " + world)
+console.log("Hello " + world);
